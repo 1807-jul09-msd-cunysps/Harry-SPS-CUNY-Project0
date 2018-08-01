@@ -1,0 +1,10 @@
+c:\users\mexic\source\repos\PhoneDirectoryApp\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\mexic\source\repos\PhoneDirectoryApp\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\mexic\source\repos\PhoneDirectoryApp\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\mexic\source\repos\PhoneDirectoryApp\ConsoleApp1\bin\Debug\PhoneDirectoryApp.dll
+c:\users\mexic\source\repos\PhoneDirectoryApp\ConsoleApp1\bin\Debug\PhoneDirectoryApp.pdb
+c:\users\mexic\source\repos\PhoneDirectoryApp\ConsoleApp1\obj\Debug\PhoneDirectoryClient.csprojAssemblyReference.cache
+c:\users\mexic\source\repos\PhoneDirectoryApp\ConsoleApp1\obj\Debug\PhoneDirectoryClient.csproj.CoreCompileInputs.cache
+c:\users\mexic\source\repos\PhoneDirectoryApp\ConsoleApp1\obj\Debug\PhoneDirectoryClient.csproj.CopyComplete
+c:\users\mexic\source\repos\PhoneDirectoryApp\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\mexic\source\repos\PhoneDirectoryApp\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

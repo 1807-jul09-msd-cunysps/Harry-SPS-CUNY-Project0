@@ -1,0 +1,8 @@
+c:\users\mexic\source\repos\PhoneDirectoryApp\PhoneDirectoryApp\bin\Debug\PhoneDirectoryApp.dll
+c:\users\mexic\source\repos\PhoneDirectoryApp\PhoneDirectoryApp\bin\Debug\PhoneDirectoryApp.pdb
+c:\users\mexic\source\repos\PhoneDirectoryApp\PhoneDirectoryApp\obj\Debug\PhoneDirectoryLibrary.csprojAssemblyReference.cache
+c:\users\mexic\source\repos\PhoneDirectoryApp\PhoneDirectoryApp\obj\Debug\PhoneDirectoryLibrary.csproj.CoreCompileInputs.cache
+c:\users\mexic\source\repos\PhoneDirectoryApp\PhoneDirectoryApp\obj\Debug\PhoneDirectoryApp.dll
+c:\users\mexic\source\repos\PhoneDirectoryApp\PhoneDirectoryApp\obj\Debug\PhoneDirectoryApp.pdb
+C:\Users\mexic\source\repos\PhoneDirectoryApp\PhoneDirectoryApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mexic\source\repos\PhoneDirectoryApp\PhoneDirectoryApp\obj\Debug\PhoneDirectoryLibrary.csproj.CopyComplete
