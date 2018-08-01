@@ -81,6 +81,7 @@ namespace PhoneDirectoryLibrary
             Console.WriteLine($"1: Name. ");
             Console.WriteLine($"2: Address. ");
             Console.WriteLine($"3: Phone number. ");
+            Console.WriteLine($"return: Go back. ");
             string searchoption = Console.ReadLine();
 
             do
@@ -104,6 +105,7 @@ namespace PhoneDirectoryLibrary
             Console.WriteLine($"1: Name. ");
             Console.WriteLine($"2: Address. ");
             Console.WriteLine($"3: Phone number. ");
+            Console.WriteLine($"return: Go back. ");
             string searchoption = Console.ReadLine();
 
             do
